@@ -1,0 +1,20 @@
+[
+  {
+    "year": 1901,
+    "title": "化学動力学および溶液の浸透圧の法則",
+    "author": "Jacobus Henricus van 't Hoff",
+    "category": "物理化学",
+    "doi": "10.1038/74401a0",
+    "pdf_file": "papers/1901_vant_hoff.pdf",
+    "article_file": "entries/1901_vant_hoff.md"
+  },
+  {
+    "year": 1935,
+    "title": "人工放射性元素の合成",
+    "author": "Frédéric Joliot, Irène Joliot-Curie",
+    "category": "放射化学",
+    "doi": "10.1038/133201a0",
+    "pdf_file": "papers/1935_joliot_curie.pdf",
+    "article_file": "entries/1935_joliot_curie.md"
+  }
+]
