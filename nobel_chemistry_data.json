@@ -1,0 +1,115 @@
+{
+  "total": 14,
+  "categories": {
+    "Nanotechnology": 2,
+    "Organic Chemistry": 1,
+    "Catalysis": 1,
+    "Biotechnology": 2,
+    "Materials Science": 2,
+    "Structural Biology": 1,
+    "Molecular Biology": 2,
+    "Analytical Chemistry": 1,
+    "Computational Chemistry": 1,
+    "Organic Synthesis": 1
+  },
+  "data": [
+    {
+      "year": 2023,
+      "names": "Moungi Bawendi, Louis Brus, Aleksey Yekimov",
+      "title": "Discovery of quantum dots",
+      "category": "Nanotechnology",
+      "doi": "10.1038/nature03832"
+    },
+    {
+      "year": 2022,
+      "names": "Carolyn R. Bertozzi, Morten Meldal, K. Barry Sharpless",
+      "title": "Click chemistry and bioorthogonal chemistry",
+      "category": "Organic Chemistry",
+      "doi": "10.1021/ja048265w"
+    },
+    {
+      "year": 2021,
+      "names": "Benjamin List, David W.C. MacMillan",
+      "title": "Asymmetric organocatalysis",
+      "category": "Catalysis",
+      "doi": "10.1038/nature02347"
+    },
+    {
+      "year": 2020,
+      "names": "Emmanuelle Charpentier, Jennifer A. Doudna",
+      "title": "CRISPR gene editing",
+      "category": "Biotechnology",
+      "doi": "10.1126/science.1258925"
+    },
+    {
+      "year": 2019,
+      "names": "John B. Goodenough, M. Stanley Whittingham, Akira Yoshino",
+      "title": "Lithium-ion batteries",
+      "category": "Materials Science",
+      "doi": "10.1039/c3cs60179b"
+    },
+    {
+      "year": 2018,
+      "names": "Frances H. Arnold, George P. Smith, Sir Gregory P. Winter",
+      "title": "Enzyme engineering and phage display",
+      "category": "Biotechnology",
+      "doi": "10.1021/ar034087b"
+    },
+    {
+      "year": 2017,
+      "names": "Jacques Dubochet, Joachim Frank, Richard Henderson",
+      "title": "Cryo-electron microscopy",
+      "category": "Structural Biology",
+      "doi": "10.1016/j.jmb.2014.07.030"
+    },
+    {
+      "year": 2016,
+      "names": "Jean-Pierre Sauvage, Fraser Stoddart, Ben Feringa",
+      "title": "Molecular machines",
+      "category": "Nanotechnology",
+      "doi": "10.1038/nature15393"
+    },
+    {
+      "year": 2015,
+      "names": "Tomas Lindahl, Paul Modrich, Aziz Sancar",
+      "title": "DNA repair mechanisms",
+      "category": "Molecular Biology",
+      "doi": "10.1038/nature03876"
+    },
+    {
+      "year": 2014,
+      "names": "Eric Betzig, Stefan W. Hell, William E. Moerner",
+      "title": "Super-resolved fluorescence microscopy",
+      "category": "Analytical Chemistry",
+      "doi": "10.1038/nbt1368"
+    },
+    {
+      "year": 2013,
+      "names": "Martin Karplus, Michael Levitt, Arieh Warshel",
+      "title": "Multiscale models for chemical processes",
+      "category": "Computational Chemistry",
+      "doi": "10.1021/cs200015z"
+    },
+    {
+      "year": 2012,
+      "names": "Robert Lefkowitz, Brian Kobilka",
+      "title": "G-protein-coupled receptors",
+      "category": "Molecular Biology",
+      "doi": "10.1038/nrm3236"
+    },
+    {
+      "year": 2011,
+      "names": "Dan Shechtman",
+      "title": "Discovery of quasicrystals",
+      "category": "Materials Science",
+      "doi": "10.1103/PhysRevLett.53.1951"
+    },
+    {
+      "year": 2010,
+      "names": "Richard Heck, Ei-ichi Negishi, Akira Suzuki",
+      "title": "Palladium-catalyzed cross couplings",
+      "category": "Organic Synthesis",
+      "doi": "10.1039/c0cs00106f"
+    }
+  ]
+}

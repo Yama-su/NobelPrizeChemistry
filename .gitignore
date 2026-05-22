@@ -1,0 +1,5 @@
+Nobel_Papers_Complete_old/
+a/
+*.log
+__pycache__/
+.vscode/

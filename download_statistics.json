@@ -1,0 +1,401 @@
+{
+  "start_time": "2026-05-23T02:26:11.481699",
+  "total": 259,
+  "success": 239,
+  "failed": 3,
+  "skipped": 17,
+  "no_doi": 17,
+  "by_year": {
+    "2016": {
+      "success": 3,
+      "failed": 0
+    },
+    "2015": {
+      "success": 3,
+      "failed": 0
+    },
+    "2014": {
+      "success": 5,
+      "failed": 0
+    },
+    "2013": {
+      "success": 6,
+      "failed": 0
+    },
+    "2012": {
+      "success": 2,
+      "failed": 0
+    },
+    "2011": {
+      "success": 1,
+      "failed": 0
+    },
+    "2010": {
+      "success": 8,
+      "failed": 0
+    },
+    "2009": {
+      "success": 5,
+      "failed": 0
+    },
+    "2008": {
+      "success": 7,
+      "failed": 0
+    },
+    "2007": {
+      "success": 6,
+      "failed": 0
+    },
+    "2006": {
+      "success": 1,
+      "failed": 0
+    },
+    "2005": {
+      "success": 5,
+      "failed": 0
+    },
+    "2004": {
+      "success": 5,
+      "failed": 0
+    },
+    "2003": {
+      "success": 1,
+      "failed": 0
+    },
+    "2002": {
+      "success": 3,
+      "failed": 0
+    },
+    "2001": {
+      "success": 3,
+      "failed": 0
+    },
+    "2000": {
+      "success": 6,
+      "failed": 0
+    },
+    "1999": {
+      "success": 1,
+      "failed": 0
+    },
+    "1998": {
+      "success": 3,
+      "failed": 0
+    },
+    "1997": {
+      "success": 3,
+      "failed": 0
+    },
+    "1995": {
+      "success": 3,
+      "failed": 0
+    },
+    "1994": {
+      "success": 1,
+      "failed": 0
+    },
+    "1993": {
+      "success": 5,
+      "failed": 0
+    },
+    "1992": {
+      "success": 1,
+      "failed": 0
+    },
+    "1991": {
+      "success": 3,
+      "failed": 0
+    },
+    "1990": {
+      "success": 1,
+      "failed": 0
+    },
+    "1989": {
+      "success": 2,
+      "failed": 0
+    },
+    "1988": {
+      "success": 7,
+      "failed": 0
+    },
+    "1987": {
+      "success": 3,
+      "failed": 0
+    },
+    "1986": {
+      "success": 7,
+      "failed": 0
+    },
+    "1985": {
+      "success": 2,
+      "failed": 0
+    },
+    "1984": {
+      "success": 1,
+      "failed": 0
+    },
+    "1983": {
+      "success": 1,
+      "failed": 0
+    },
+    "1982": {
+      "success": 2,
+      "failed": 0
+    },
+    "1981": {
+      "success": 6,
+      "failed": 0
+    },
+    "1980": {
+      "success": 3,
+      "failed": 0
+    },
+    "1979": {
+      "success": 2,
+      "failed": 0
+    },
+    "1978": {
+      "success": 1,
+      "failed": 0
+    },
+    "1977": {
+      "success": 1,
+      "failed": 0
+    },
+    "1976": {
+      "success": 4,
+      "failed": 0
+    },
+    "1975": {
+      "success": 3,
+      "failed": 0
+    },
+    "1974": {
+      "success": 2,
+      "failed": 0
+    },
+    "1973": {
+      "success": 2,
+      "failed": 0
+    },
+    "1972": {
+      "success": 4,
+      "failed": 0
+    },
+    "1971": {
+      "success": 4,
+      "failed": 1
+    },
+    "1969": {
+      "success": 1,
+      "failed": 1
+    },
+    "1968": {
+      "success": 1,
+      "failed": 0
+    },
+    "1967": {
+      "success": 3,
+      "failed": 0
+    },
+    "1966": {
+      "success": 1,
+      "failed": 0
+    },
+    "1965": {
+      "success": 3,
+      "failed": 0
+    },
+    "1964": {
+      "success": 1,
+      "failed": 0
+    },
+    "1963": {
+      "success": 2,
+      "failed": 0
+    },
+    "1962": {
+      "success": 3,
+      "failed": 0
+    },
+    "1961": {
+      "success": 2,
+      "failed": 1
+    },
+    "1960": {
+      "success": 1,
+      "failed": 0
+    },
+    "1959": {
+      "success": 2,
+      "failed": 0
+    },
+    "1958": {
+      "success": 3,
+      "failed": 0
+    },
+    "1957": {
+      "success": 2,
+      "failed": 0
+    },
+    "1956": {
+      "success": 3,
+      "failed": 0
+    },
+    "1955": {
+      "success": 2,
+      "failed": 0
+    },
+    "1954": {
+      "success": 1,
+      "failed": 0
+    },
+    "1953": {
+      "success": 3,
+      "failed": 0
+    },
+    "1952": {
+      "success": 2,
+      "failed": 0
+    },
+    "1951": {
+      "success": 2,
+      "failed": 0
+    },
+    "1950": {
+      "success": 2,
+      "failed": 0
+    },
+    "1949": {
+      "success": 1,
+      "failed": 0
+    },
+    "1948": {
+      "success": 3,
+      "failed": 0
+    },
+    "1947": {
+      "success": 1,
+      "failed": 0
+    },
+    "1946": {
+      "success": 2,
+      "failed": 0
+    },
+    "1944": {
+      "success": 1,
+      "failed": 0
+    },
+    "1943": {
+      "success": 1,
+      "failed": 0
+    },
+    "1939": {
+      "success": 9,
+      "failed": 0
+    },
+    "1938": {
+      "success": 1,
+      "failed": 0
+    },
+    "1937": {
+      "success": 3,
+      "failed": 0
+    },
+    "1936": {
+      "success": 1,
+      "failed": 0
+    },
+    "1935": {
+      "success": 2,
+      "failed": 0
+    },
+    "1934": {
+      "success": 1,
+      "failed": 0
+    },
+    "1932": {
+      "success": 4,
+      "failed": 0
+    },
+    "1930": {
+      "success": 1,
+      "failed": 0
+    },
+    "1929": {
+      "success": 2,
+      "failed": 0
+    },
+    "1928": {
+      "success": 2,
+      "failed": 0
+    },
+    "1927": {
+      "success": 1,
+      "failed": 0
+    },
+    "1926": {
+      "success": 2,
+      "failed": 0
+    },
+    "1925": {
+      "success": 1,
+      "failed": 0
+    },
+    "1921": {
+      "success": 3,
+      "failed": 0
+    },
+    "1920": {
+      "success": 2,
+      "failed": 0
+    },
+    "1918": {
+      "success": 1,
+      "failed": 0
+    },
+    "1915": {
+      "success": 2,
+      "failed": 0
+    },
+    "1914": {
+      "success": 3,
+      "failed": 0
+    },
+    "1908": {
+      "success": 1,
+      "failed": 0
+    }
+  },
+  "by_century": {
+    "20th": {
+      "success": 169,
+      "failed": 3
+    },
+    "21st": {
+      "success": 70,
+      "failed": 0
+    }
+  },
+  "failed_papers": [
+    {
+      "year": 1971,
+      "title": "analysis of the 4050 a group of the c 3 molecule",
+      "doi": "10.1086/148262",
+      "url": "https://doi.org/10.1086/148262"
+    },
+    {
+      "year": 1969,
+      "title": "the structure of molecules containing cyclohexane or pyranose rings",
+      "doi": "10.3891/acta.chem.scand.01-0929",
+      "url": "https://doi.org/10.3891/acta.chem.scand.01-0929"
+    },
+    {
+      "year": 1961,
+      "title": "the path of carbon in photosynthesis xx the steady state",
+      "doi": "10.2172/915410",
+      "url": "https://doi.org/10.2172/915410"
+    }
+  ],
+  "end_time": "2026-05-23T03:05:09.862771"
+}

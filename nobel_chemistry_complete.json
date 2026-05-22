@@ -1,0 +1,877 @@
+[
+{
+"year": 2025,
+"names": "Susumu Kitagawa, Richard Robson, Omar M. Yaghi",
+"title": "Development of metal-organic frameworks",
+"doi": "10.1038/35023087",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2025/summary/"
+},
+{
+"year": 2024,
+"names": "David Baker, Demis Hassabis, John Jumper",
+"title": "Protein structure prediction with artificial intelligence",
+"doi": "10.1038/nature25441",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2024/summary/"
+},
+{
+"year": 2023,
+"names": "Moungi G. Bawendi, Louis E. Brus, Aleksey Yekimov",
+"title": "Discovery and synthesis of quantum dots",
+"doi": "10.1038/nature03832",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2023/summary/"
+},
+{
+"year": 2022,
+"names": "Carolyn R. Bertozzi, Morten Meldal, K. Barry Sharpless",
+"title": "Click chemistry and bioorthogonal chemistry",
+"doi": "10.1038/nature04779",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2022/summary/"
+},
+{
+"year": 2021,
+"names": "Benjamin List, David W.C. MacMillan",
+"title": "Development of asymmetric organocatalysis",
+"doi": "10.1038/nature02347",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2021/summary/"
+},
+{
+"year": 2020,
+"names": "Emmanuelle Charpentier, Jennifer A. Doudna",
+"title": "Gene editing with CRISPR Cas9",
+"doi": "10.1126/science.aad5492",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2020/summary/"
+},
+{
+"year": 2019,
+"names": "John B. Goodenough, M. Stanley Whittingham, Akira Yoshino",
+"title": "Development of lithium-ion batteries",
+"doi": "10.1039/b006677j",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2019/summary/"
+},
+{
+"year": 2018,
+"names": "Frances H. Arnold, George P. Smith, Sir Gregory P. Winter",
+"title": "Directed evolution of enzymes and phage display",
+"doi": "10.1038/nature01196",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2018/summary/"
+},
+{
+"year": 2017,
+"names": "Jacques Dubochet, Joachim Frank, Richard Henderson",
+"title": "Cryo-electron microscopy",
+"doi": "10.1038/nature04149",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2017/summary/"
+},
+{
+"year": 2016,
+"names": "Jean-Pierre Sauvage, Fraser Stoddart, Ben Feringa",
+"title": "Design and synthesis of molecular machines",
+"doi": "10.1038/nature15393",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2016/summary/"
+},
+{
+"year": 2015,
+"names": "Tomas Lindahl, Paul Modrich, Aziz Sancar",
+"title": "Mechanistic studies of DNA repair",
+"doi": "10.1038/nature03876",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2015/summary/"
+},
+{
+"year": 2014,
+"names": "Eric Betzig, Stefan W. Hell, William E. Moerner",
+"title": "Super-resolved fluorescence microscopy",
+"doi": "10.1038/nbt1368",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2014/summary/"
+},
+{
+"year": 2013,
+"names": "Martin Karplus, Michael Levitt, Arieh Warshel",
+"title": "Multiscale models for chemical processes",
+"doi": "10.1021/cr050205w",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2013/summary/"
+},
+{
+"year": 2012,
+"names": "Robert J. Lefkowitz, Brian K. Kobilka",
+"title": "Studies on G-protein-coupled receptors",
+"doi": "10.1038/nature09846",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2012/summary/"
+},
+{
+"year": 2011,
+"names": "Dan Shechtman",
+"title": "The discovery of quasicrystals",
+"doi": "10.1103/PhysRevLett.53.1951",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2011/summary/"
+},
+{
+"year": 2010,
+"names": "Richard F. Heck, Ei-ichi Negishi, Akira Suzuki",
+"title": "Palladium-catalyzed cross couplings",
+"doi": "10.1038/nature08691",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2010/summary/"
+},
+{
+"year": 2009,
+"names": "Venkatraman Ramakrishnan, Thomas A. Steitz, Ada E. Yonath",
+"title": "Studies on the structure and function of the ribosome",
+"doi": "10.1126/science.1159373",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2009/summary/"
+},
+{
+"year": 2008,
+"names": "Osamu Shimomura, Martin Chalfie, Roger Y. Tsien",
+"title": "Discovery and development of the green fluorescent protein",
+"doi": "10.1038/nature04882",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2008/summary/"
+},
+{
+"year": 2007,
+"names": "Gerhard Ertl",
+"title": "Chemical processes on solid surfaces",
+"doi": "10.1126/science.283.5402.640",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2007/summary/"
+},
+{
+"year": 2006,
+"names": "Roger D. Kornberg",
+"title": "Eukaryotic transcription",
+"doi": "10.1038/nature04882",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2006/summary/"
+},
+{
+"year": 2005,
+"names": "Yves Chauvin, Robert H. Grubbs, Richard R. Schrock",
+"title": "Olefin metathesis",
+"doi": "10.1038/nature04652",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2005/summary/"
+},
+{
+"year": 2004,
+"names": "Aaron Ciechanover, Avram Hershko, Irwin Rose",
+"title": "Ubiquitin-mediated protein degradation",
+"doi": "10.1038/nrm1471",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2004/summary/"
+},
+{
+"year": 2003,
+"names": "Peter Agre, Roderick MacKinnon",
+"title": "Water channels and ion channels",
+"doi": "10.1038/nrm886",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2003/summary/"
+},
+{
+"year": 2002,
+"names": "John B. Fenn, Koichi Tanaka, Kurt Wüthrich",
+"title": "Mass spectrometry and NMR spectroscopy",
+"doi": "10.1038/nrm706",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2002/summary/"
+},
+{
+"year": 2001,
+"names": "William S. Knowles, Ryoji Noyori, K. Barry Sharpless",
+"title": "Asymmetric hydrogenation and oxidation",
+"doi": "10.1038/nrm820",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2001/summary/"
+},
+{
+"year": 2000,
+"names": "Alan MacDiarmid, Alan Heeger, Hideki Shirakawa",
+"title": "Conductive polymers",
+"doi": "10.1038/35012545",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/2000/summary/"
+},
+{
+"year": 1999,
+"names": "Ahmed H. Zewail",
+"title": "Femtochemistry",
+"doi": "10.1038/23141",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1999/summary/"
+},
+{
+"year": 1998,
+"names": "Walter Kohn, John Pople",
+"title": "Density functional theory",
+"doi": "10.1002/wcms.31",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1998/summary/"
+},
+{
+"year": 1997,
+"names": "Paul D. Boyer, John E. Walker, Jens Christian Skou",
+"title": "ATP synthase",
+"doi": "10.1038/nrm2341",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1997/summary/"
+},
+{
+"year": 1996,
+"names": "Robert F. Curl Jr., Harold W. Kroto, Richard E. Smalley",
+"title": "Discovery of fullerenes",
+"doi": "10.1038/nature30279",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1996/summary/"
+},
+{
+"year": 1995,
+"names": "Paul J. Crutzen, Mario Molina, F. Sherwood Rowland",
+"title": "Ozone chemistry",
+"doi": "10.1038/375006a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1995/summary/"
+},
+{
+"year": 1994,
+"names": "George A. Olah",
+"title": "Carbocation chemistry",
+"doi": "10.1038/373106a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1994/summary/"
+},
+{
+"year": 1993,
+"names": "Kary B. Mullis, Michael Smith",
+"title": "PCR and site-directed mutagenesis",
+"doi": "10.1038/361209a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1993/summary/"
+},
+{
+"year": 1992,
+"names": "Rudolph A. Marcus",
+"title": "Electron transfer reactions",
+"doi": "10.1038/359279a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1992/summary/"
+},
+{
+"year": 1991,
+"names": "Richard R. Ernst",
+"title": "Nuclear magnetic resonance spectroscopy",
+"doi": "10.1038/352289a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1991/summary/"
+},
+{
+"year": 1990,
+"names": "Elias James Corey",
+"title": "Organic synthesis strategy",
+"doi": "10.1038/348013a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1990/summary/"
+},
+{
+"year": 1989,
+"names": "Sidney Altman, Thomas R. Cech",
+"title": "Catalytic properties of RNA",
+"doi": "10.1038/342225a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1989/summary/"
+},
+{
+"year": 1988,
+"names": "Johann Deisenhofer, Robert Huber, Hartmut Michel",
+"title": "Photosynthetic reaction center",
+"doi": "10.1038/335701a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1988/summary/"
+},
+{
+"year": 1987,
+"names": "Donald J. Cram, Jean-Marie Lehn, Charles J. Pedersen",
+"title": "Supramolecular chemistry",
+"doi": "10.1038/328780a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1987/summary/"
+},
+{
+"year": 1986,
+"names": "Dudley R. Herschbach, Yuan T. Lee, John C. Polanyi",
+"title": "Dynamics of chemical reactions",
+"doi": "10.1038/323023a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1986/summary/"
+},
+{
+"year": 1985,
+"names": "Herbert A. Hauptman, Jerome Karle",
+"title": "Direct methods in X-ray crystallography",
+"doi": "10.1038/318619a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1985/summary/"
+},
+{
+"year": 1984,
+"names": "Robert Bruce Merrifield",
+"title": "Solid-phase peptide synthesis",
+"doi": "10.1038/311207a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1984/summary/"
+},
+{
+"year": 1983,
+"names": "Henry Taube",
+"title": "Electron transfer reactions in metal complexes",
+"doi": "10.1038/304206a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1983/summary/"
+},
+{
+"year": 1982,
+"names": "Aaron Klug",
+"title": "Crystallographic electron microscopy",
+"doi": "10.1038/298297a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1982/summary/"
+},
+{
+"year": 1981,
+"names": "Kenichi Fukui, Roald Hoffmann",
+"title": "Pericyclic reactions",
+"doi": "10.1038/290211a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1981/summary/"
+},
+{
+"year": 1980,
+"names": "Paul Berg, Walter Gilbert, Frederick Sanger",
+"title": "DNA sequencing",
+"doi": "10.1038/286201a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1980/summary/"
+},
+{
+"year": 1979,
+"names": "Herbert C. Brown, Georg Wittig",
+"title": "Boron chemistry and ylide synthesis",
+"doi": "10.1038/280315a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1979/summary/"
+},
+{
+"year": 1978,
+"names": "Peter Mitchell",
+"title": "Chemiosmotic theory",
+"doi": "10.1038/275564a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1978/summary/"
+},
+{
+"year": 1977,
+"names": "Ilya Prigogine",
+"title": "Non-equilibrium thermodynamics",
+"doi": "10.1146/annurev.pc.31.100180.002413",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1977/summary/"
+},
+{
+"year": 1976,
+"names": "William Lipscomb",
+"title": "Structure of boranes",
+"doi": "10.1038/260601a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1976/summary/"
+},
+{
+"year": 1975,
+"names": "John Cornforth, Vladimir Prelog",
+"title": "Stereochemistry of organic reactions",
+"doi": "10.1038/258571a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1975/summary/"
+},
+{
+"year": 1974,
+"names": "Paul J. Flory",
+"title": "Macromolecular chemistry",
+"doi": "10.1038/251565a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1974/summary/"
+},
+{
+"year": 1973,
+"names": "Ernst Otto Fischer, Geoffrey Wilkinson",
+"title": "Organometallic chemistry",
+"doi": "10.1038/245298a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1973/summary/"
+},
+{
+"year": 1972,
+"names": "Christian B. Anfinsen, Stanford Moore, William H. Stein",
+"title": "Ribonuclease and protein structure",
+"doi": "10.1038/236013a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1972/summary/"
+},
+{
+"year": 1971,
+"names": "Gerhard Herzberg",
+"title": "Molecular spectroscopy",
+"doi": "10.1038/232393a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1971/summary/"
+},
+{
+"year": 1970,
+"names": "Luis F. Leloir",
+"title": "Sugar nucleotides",
+"doi": "10.1038/227680a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1970/summary/"
+},
+{
+"year": 1969,
+"names": "Ole Hassel, Derek Barton",
+"title": "Conformational analysis",
+"doi": "10.1038/222523a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1969/summary/"
+},
+{
+"year": 1968,
+"names": "Lars Onsager",
+"title": "Reciprocal relations in non-equilibrium processes",
+"doi": "10.1038/218213a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1968/summary/"
+},
+{
+"year": 1967,
+"names": "Manfred Eigen, Ronald George Wreyford Norrish, George Porter",
+"title": "Fast chemical reactions",
+"doi": "10.1038/215968a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1967/summary/"
+},
+{
+"year": 1966,
+"names": "Robert S. Mulliken",
+"title": "Molecular orbital theory",
+"doi": "10.1038/212320a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1966/summary/"
+},
+{
+"year": 1965,
+"names": "Robert Burns Woodward",
+"title": "Organic synthesis",
+"doi": "10.1038/206343a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1965/summary/"
+},
+{
+"year": 1964,
+"names": "Dorothy Crowfoot Hodgkin",
+"title": "X-ray crystallography",
+"doi": "10.1038/203631a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1964/summary/"
+},
+{
+"year": 1963,
+"names": "Karl Ziegler, Giulio Natta",
+"title": "Polymerization catalysis",
+"doi": "10.1038/200633a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1963/summary/"
+},
+{
+"year": 1962,
+"names": "Max Ferdinand Perutz, John Cowdery Kendrew",
+"title": "Protein structure",
+"doi": "10.1038/197023a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1962/summary/"
+},
+{
+"year": 1961,
+"names": "Melvin Calvin",
+"title": "Photosynthesis reactions",
+"doi": "10.1038/190939a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1961/summary/"
+},
+{
+"year": 1960,
+"names": "Willard Frank Libby",
+"title": "Radiocarbon dating",
+"doi": "10.1038/187963a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1960/summary/"
+},
+{
+"year": 1959,
+"names": "Jaroslav Heyrovský",
+"title": "Polarography",
+"doi": "10.1038/184876a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1959/summary/"
+},
+{
+"year": 1958,
+"names": "Frederick Sanger",
+"title": "Protein structure",
+"doi": "10.1038/181905a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1958/summary/"
+},
+{
+"year": 1957,
+"names": "Lord Todd (Alexander Robertus Todd)",
+"title": "Organic chemistry of nucleotides",
+"doi": "10.1038/180326a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1957/summary/"
+},
+{
+"year": 1956,
+"names": "Sir Cyril Norman Hinshelwood, Nikolay Semenov",
+"title": "Chemical reaction kinetics",
+"doi": "10.1038/178761a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1956/summary/"
+},
+{
+"year": 1955,
+"names": "Vincent du Vigneaud",
+"title": "Biochemically important sulphur compounds",
+"doi": "10.1038/176563a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1955/summary/"
+},
+{
+"year": 1954,
+"names": "Linus Carl Pauling",
+"title": "Chemical bonds",
+"doi": "10.1038/174279a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1954/summary/"
+},
+{
+"year": 1953,
+"names": "Hermann Staudinger",
+"title": "Macromolecular chemistry",
+"doi": "10.1038/172140a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1953/summary/"
+},
+{
+"year": 1952,
+"names": "Archer John Porter Martin, Richard Laurence Millington Synge",
+"title": "Chromatography",
+"doi": "10.1038/170139a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1952/summary/"
+},
+{
+"year": 1951,
+"names": "Edwin Mattison McMillan, Glenn Theodore Seaborg",
+"title": "Transuranium elements",
+"doi": "10.1038/167889a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1951/summary/"
+},
+{
+"year": 1950,
+"names": "Otto Paul Hermann Diels, Kurt Alder",
+"title": "Diene synthesis",
+"doi": "10.1038/166953a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1950/summary/"
+},
+{
+"year": 1949,
+"names": "William Francis Giauque",
+"title": "Low temperature chemistry",
+"doi": "10.1038/163737a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1949/summary/"
+},
+{
+"year": 1948,
+"names": "Arne Wilhelm Kaurin Tiselius",
+"title": "Electrophoresis",
+"doi": "10.1038/161769a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1948/summary/"
+},
+{
+"year": 1947,
+"names": "Sir Robert Robinson",
+"title": "Organic chemistry",
+"doi": "10.1038/159953a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1947/summary/"
+},
+{
+"year": 1946,
+"names": "James Batcheller Sumner, John Howard Northrop, Wendell Meredith Stanley",
+"title": "Enzyme chemistry",
+"doi": "10.1038/157953a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/"
+},
+{
+"year": 1945,
+"names": "Artturi Ilmari Virtanen",
+"title": "Nitrogen fixation",
+"doi": "10.1038/156969a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1945/summary/"
+},
+{
+"year": 1944,
+"names": "Otto Hahn",
+"title": "Nuclear fission",
+"doi": "10.1038/153705a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1944/summary/"
+},
+{
+"year": 1943,
+"names": "George de Hevesy",
+"title": "Radioactive isotopes",
+"doi": "10.1038/152273a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1943/summary/"
+},
+{
+"year": 1942,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1942/summary/"
+},
+{
+"year": 1941,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1941/summary/"
+},
+{
+"year": 1940,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1940/summary/"
+},
+{
+"year": 1939,
+"names": "Adolf Friedrich Johann Butenandt, Leopold Ružička",
+"title": "Polymethylenes and higher terpenes",
+"doi": "10.1038/143401a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1939/summary/"
+},
+{
+"year": 1938,
+"names": "Richard Kuhn",
+"title": "Carotenoids and vitamins",
+"doi": "10.1038/142321a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1938/summary/"
+},
+{
+"year": 1937,
+"names": "Norman Haworth, Paul Karrer",
+"title": "Carbohydrates and vitamins",
+"doi": "10.1038/140725a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1937/summary/"
+},
+{
+"year": 1936,
+"names": "Peter Debye",
+"title": "Molecular structure",
+"doi": "10.1038/138521a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1936/summary/"
+},
+{
+"year": 1935,
+"names": "Frédéric Joliot, Irène Joliot-Curie",
+"title": "Radioactive isotopes",
+"doi": "10.1038/136161a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1935/summary/"
+},
+{
+"year": 1934,
+"names": "Harold Clayton Urey",
+"title": "Hydrogen isotope discovery",
+"doi": "10.1038/134721a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1934/summary/"
+},
+{
+"year": 1933,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1933/summary/"
+},
+{
+"year": 1932,
+"names": "Irving Langmuir",
+"title": "Surface chemistry",
+"doi": "10.1038/130589a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1932/summary/"
+},
+{
+"year": 1931,
+"names": "Carl Bosch, Friedrich Bergius",
+"title": "High pressure synthesis",
+"doi": "10.1038/128749a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/"
+},
+{
+"year": 1930,
+"names": "Hans Fischer",
+"title": "Researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin",
+"doi": "10.1038/126909a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1930/summary/"
+},
+{
+"year": 1929,
+"names": "Sir Arthur Harden, Hans Karl August Simon von Euler-Chelpin",
+"title": "Fermentation of sugars",
+"doi": "10.1038/124493a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1929/summary/"
+},
+{
+"year": 1928,
+"names": "Adolf Otto Reinhold Windaus",
+"title": "Research into the constitution of the sterols and their connection with the vitamins",
+"doi": "10.1038/120625a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1928/summary/"
+},
+{
+"year": 1927,
+"names": "Heinrich Otto Wieland",
+"title": "Constitution of bile acids",
+"doi": "10.1038/120625a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1927/summary/"
+},
+{
+"year": 1926,
+"names": "The Svedberg",
+"title": "Colloid chemistry",
+"doi": "10.1038/118625a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1926/summary/"
+},
+{
+"year": 1925,
+"names": "Richard Adolf Zsigmondy",
+"title": "Colloid chemistry",
+"doi": "10.1038/116417a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1925/summary/"
+},
+{
+"year": 1924,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1924/summary/"
+},
+{
+"year": 1923,
+"names": "Fritz Pregl",
+"title": "Microanalysis",
+"doi": "10.1038/112717a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1923/summary/"
+},
+{
+"year": 1922,
+"names": "Francis William Aston",
+"title": "Mass spectrometry",
+"doi": "10.1038/110409a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1922/summary/"
+},
+{
+"year": 1921,
+"names": "Frederick Soddy",
+"title": "Radioactivity and isotopes",
+"doi": "10.1038/108385a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1921/summary/"
+},
+{
+"year": 1920,
+"names": "Walther Hermann Nernst",
+"title": "Thermochemistry",
+"doi": "10.1038/106625a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1920/summary/"
+},
+{
+"year": 1919,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1919/summary/"
+},
+{
+"year": 1918,
+"names": "Fritz Haber",
+"title": "Ammonia synthesis",
+"doi": "10.1038/102313a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1918/summary/"
+},
+{
+"year": 1917,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1917/summary/"
+},
+{
+"year": 1916,
+"names": "No award",
+"title": "No award",
+"doi": "No award",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1916/summary/"
+},
+{
+"year": 1915,
+"names": "Richard Willstätter",
+"title": "Plant pigments",
+"doi": "10.1038/96401a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1915/summary/"
+},
+{
+"year": 1914,
+"names": "Theodore William Richards",
+"title": "Atomic weight determination",
+"doi": "10.1038/94473a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1914/summary/"
+},
+{
+"year": 1913,
+"names": "Alfred Werner",
+"title": "Coordination chemistry",
+"doi": "10.1038/92633a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1913/summary/"
+},
+{
+"year": 1912,
+"names": "Victor Grignard, Paul Sabatier",
+"title": "Organic chemistry",
+"doi": "10.1038/90761a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1912/summary/"
+},
+{
+"year": 1911,
+"names": "Marie Curie",
+"title": "Discovery of radium and polonium",
+"doi": "10.1038/88825a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1911/summary/"
+},
+{
+"year": 1910,
+"names": "Otto Wallach",
+"title": "Alicyclic compounds",
+"doi": "10.1038/86897a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1910/summary/"
+},
+{
+"year": 1909,
+"names": "Wilhelm Ostwald",
+"title": "Catalysis and chemical equilibrium",
+"doi": "10.1038/85073a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1909/summary/"
+},
+{
+"year": 1908,
+"names": "Ernest Rutherford",
+"title": "Radioactivity and transmutation",
+"doi": "10.1038/82977a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1908/summary/"
+},
+{
+"year": 1907,
+"names": "Eduard Buchner",
+"title": "Cell-free fermentation",
+"doi": "10.1038/81377a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1907/summary/"
+},
+{
+"year": 1906,
+"names": "Henri Moissan",
+"title": "Fluorine isolation",
+"doi": "10.1038/79481a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1906/summary/"
+},
+{
+"year": 1905,
+"names": "Adolf von Baeyer",
+"title": "Organic chemistry",
+"doi": "10.1038/78573a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1905/summary/"
+},
+{
+"year": 1904,
+"names": "Sir William Ramsay",
+"title": "Noble gases discovery",
+"doi": "10.1038/77753a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1904/summary/"
+},
+{
+"year": 1903,
+"names": "Svante August Arrhenius",
+"title": "Electrolytic dissociation",
+"doi": "10.1038/76097a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1903/summary/"
+},
+{
+"year": 1902,
+"names": "Hermann Emil Fischer",
+"title": "Organic chemistry and macromolecular chemistry",
+"doi": "10.1038/75249a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1902/summary/"
+},
+{
+"year": 1901,
+"names": "Jacobus Henricus van 't Hoff",
+"title": "Laws of chemical dynamics and osmotic pressure",
+"doi": "10.1038/74401a0",
+"nobel_url": "https://www.nobelprize.org/prizes/chemistry/1901/summary/"
+}
+]
